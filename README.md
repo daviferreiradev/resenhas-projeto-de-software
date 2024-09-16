@@ -1,0 +1,1 @@
+# resenha-artigo-thoughtworks-technology-radar
