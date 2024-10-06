@@ -1,0 +1,11 @@
+# Resenha do artigo Big Ball of Mud
+
+O artigo "Big Ball of Mud", de Brian Foote e Joseph Yoder, aborda um fenômeno comum no desenvolvimento de software: sistemas que crescem de forma desordenada e acabam se tornando uma verdadeira "bola de lama". Esse conceito descreve sistemas que não seguem uma arquitetura clara ou bem planejada, onde o código é estendido com soluções improvisadas, remendos e práticas que priorizam a entrega rápida ao invés da qualidade a longo prazo.
+
+Os autores apontam que, apesar da aparente desorganização, esse tipo de arquitetura "acidental" é extremamente comum, principalmente por conta das pressões que os desenvolvedores enfrentam. Prazos apertados, falta de recursos e o pragmatismo do dia a dia fazem com que decisões arquitetônicas sejam deixadas de lado em prol de fazer o software funcionar. Mesmo sistemas que começam com uma estrutura sólida podem se deteriorar à medida que novos requisitos surgem e o tempo se torna escasso.
+
+Foote e Yoder descrevem uma série de padrões que emergem dessa abordagem desestruturada, como o "Throwaway Code", que representa código feito para ser temporário, mas que acaba sendo mantido no sistema, e o "Piecemeal Growth", que reflete o crescimento desordenado do software. Eles também discutem o padrão "Keep It Working", no qual o principal foco é simplesmente manter o sistema funcionando, mesmo que isso signifique comprometer ainda mais a sua estrutura.
+
+Apesar de parecer algo negativo, os autores reconhecem que, em certos contextos, a "Big Ball of Mud" pode ser uma solução prática. Ela permite que o sistema cresça rapidamente e atenda a demandas urgentes, mas a longo prazo, essa falta de organização pode trazer grandes problemas de manutenção e escalabilidade. Eles não condenam esse tipo de abordagem, mas sugerem que é importante entender por que ela acontece e, sempre que possível, tentar melhorar a estrutura arquitetônica do sistema.
+
+Em resumo, o artigo nos faz refletir sobre como forças externas e escolhas pragmáticas moldam o desenvolvimento de software na prática. A "Big Ball of Mud" não é o ideal, mas muitas vezes é o que ocorre na realidade, e cabe aos desenvolvedores encontrar um equilíbrio entre a entrega rápida e a construção de sistemas robustos e sustentáveis.
